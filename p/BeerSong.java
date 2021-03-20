@@ -31,4 +31,4 @@ public class BeerSong {
         }  // else 结束
       }  // while 结束
     }  // main 方法结束
-}  // class 结束
+} 
